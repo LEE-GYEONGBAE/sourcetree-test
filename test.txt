@@ -1,5 +1,2 @@
 test
-<<<<<<< HEAD
-=======
 new line
->>>>>>> new-test
